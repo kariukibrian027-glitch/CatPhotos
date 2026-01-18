@@ -8,4 +8,6 @@ A fun HTML website to view adorable cat pictures.
 - Fully static site
 
 ## Live Demo
-[Check it out here](https://yourusername.github.io/catphotoapp/)
+[Check it out here](https://kariukibrian027-glitch.github.io/CatPhotos/)
+## Live Demo
+[Check it out here](https://kariukibrian027-glitch.github.io/CatPhotos/)
